@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "IFlowey",
+    "slug": "iflowey",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#D6336C"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#D6336C"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
